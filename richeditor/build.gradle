@@ -11,7 +11,7 @@ android {
     versionCode VERSION_CODE as int
     versionName VERSION_NAME
   }
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '25.0.3'
 }
 
 //publish {
